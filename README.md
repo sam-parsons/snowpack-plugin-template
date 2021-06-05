@@ -1,1 +1,1 @@
-#snowpack-plugin-template
+# snowpack-plugin-template
